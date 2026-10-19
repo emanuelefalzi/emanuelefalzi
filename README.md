@@ -9,6 +9,6 @@ MSc student in Innovation, Technology and Entrepreneurship at Bocconi, Milan. I 
 
 **Also built**: a multi-agent study pipeline (Claude Code, Codex, NotebookLM via MCP) that turns lectures and readings into source-checked notes, plus Claude Code skills for the bid process and job search.
 
-**Tools**: Python, SQL, R, Swift through agents, Claude API, MCP, Power BI, Excel.
+**Tools**: Python, SQL, R, Claude API, MCP, Power BI, Excel, and Swift (through agents).
 
 [LinkedIn](https://www.linkedin.com/in/emanuele-falzi) · emanuele.falzi04@gmail.com
