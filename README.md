@@ -1,4 +1,4 @@
-### Hi, I'm Emanuele (Lele)
+### Hi, I'm Emanuele Falzi
 
 MSc student in Innovation, Technology and Entrepreneurship at Bocconi, Milan. I work at the point where product meets generative AI: I write the spec, make the product calls and test on real use, and I build with Claude Code and Codex as my engineering team.
 
