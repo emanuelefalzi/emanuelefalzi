@@ -1,6 +1,6 @@
 ### Hi, I'm Emanuele Falzi
 
-MSc student in Innovation, Technology and Entrepreneurship at Bocconi, Milan. I work at the point where product meets generative AI: I write the spec, make the product calls and test on real use, and I build with Claude Code and Codex as my engineering team.
+MSc student in Innovation, Technology and Entrepreneurship at Bocconi, Milan. I like being at the point where technology meets reality with the help of generative AI: I write the spec, make the product calls and ask for test test on real use, exploiting Claude Code and Codex as my engineering team.
 
 **Projects**
 
